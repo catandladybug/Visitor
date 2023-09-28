@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b448b0669b91a0643a68bb899f561225, type: 3}
+  m_Name: PowerUp 1
+  m_EditorClassIdentifier: 
+  powerupName: STRONG
+  powerupPrefab: {fileID: 0}
+  powerupDescription: 
+  healShield: 0
+  turboBoost: 3.4
+  weaponRange: 10
+  weaponStrength: 45.5
